@@ -1,1 +1,1 @@
-This website will be about Britney Spears.
+This website will be about dogs.
