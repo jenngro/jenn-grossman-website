@@ -1,1 +1,1 @@
-This website will be about dogs
+This website will be about dogs.

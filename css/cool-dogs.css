@@ -1,0 +1,20 @@
+h1 {
+  font-family: 'Inconsolata';
+  text-align: left;
+  background-color: #FF44FF;
+}
+
+p {
+  font-family: 'Inconsolata';
+  text-align: left;
+  background-color: #11FF00;
+}
+
+.navbar{
+  font-family: 'Inconsolata';
+  background-color: #00FFFF;
+}
+
+.btn {
+  background-color: #AF4AF9;
+}
