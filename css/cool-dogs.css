@@ -56,9 +56,9 @@ p {
 
 .col-2 {
   width: 31%;
+  margin: 2px;
 }
 
 .intro {
   width: 70%;
-}
 }
